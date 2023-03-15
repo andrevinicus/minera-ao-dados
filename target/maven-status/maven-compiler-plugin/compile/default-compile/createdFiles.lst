@@ -1,0 +1,6 @@
+model\service\RentalService.class
+model\entites\CarRental.class
+model\entites\Vehicle.class
+model\service\BrazilTaxService.class
+application\Program.class
+model\entites\Invoice.class
